@@ -1,0 +1,7 @@
+Extract data from SNSCRAPE. Please refer the blog for pre-req: https://medium.com/dataseries/how-to-scrape-millions-of-tweets-using-snscrape-195ee3594721
+EDA on Extracted Text
+Weaksupervision using Snorkel And Rubrix ( https://rubrix.readthedocs.io/en/stable/tutorials/weak-supervision-with-rubrix.html )
+Active Learning with ModAl using Mutlinomal NB
+Active Learning with small-text ( https://github.com/webis-de/small-text/blob/main/examples/notebooks/02-active-learning-with-stopping-criteria.ipynb )
+Tune BERT Model on generated labelled data
+Tune BioBERT on generated labelled data
