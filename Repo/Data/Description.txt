@@ -2,4 +2,5 @@ The folder contain two excel files containing data for train and test datasets r
 We have data related to another AutoImmune disease ( LUPUS ) which can be further refined and used as a test dataset.
 
 Data differs from the details mentioned in the report.
-The experiments remain same, just the data count differs
+The experiments remain same, just the data count different
+Only few records are upload due to datasize restriction
