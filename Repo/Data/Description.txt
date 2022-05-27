@@ -1,0 +1,2 @@
+The folder contain two excel files containing data for train and test datasets related to a particular auto-immune disease
+We have data related to another AutoImmune disease ( LUPUS ) which can be further refined and used as a test dataset.
