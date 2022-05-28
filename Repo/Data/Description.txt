@@ -1,6 +1,11 @@
-The folder contain two excel files containing data for train and test datasets related to a particular auto-immune disease
-We have data related to another AutoImmune disease ( LUPUS ) which can be further refined and used as a test dataset.
+The repo contains two excel fails 
 
-Data differs from the details mentioned in the report.
-The experiments remain same, just the data count different
-Only few records are upload due to datasize restriction
+Data might slightly differ from what is executed in the report, as the data is again collected at a later point.
+
+1. DataToBeLabeled.csv : The training dataset that is to be labeled. 
+    We will populate the labels using Active Learning and Weak Supervision Techniques
+    Then this data will be used as train dataset to train BERT and BioBERT
+ 
+2.  ManualAnnotatedData.csv : This is a manually annotated dataset.
+    We use will use this dataset to train the active learner.
+    We will also this to use to test the BERT and BioBERT models.
